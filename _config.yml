@@ -11,7 +11,7 @@ title                    : "Jacob Choi"
 title_separator          : "-"
 name                     : &name "Jacob's Biography"
 description              : &description "personal description"
-url                      : https://jacobxchoi.github.io/jacob.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jacobxchoi.github.io/jacob/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JacobxChoi/jacob.github.io.git"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Jacob Choi"
-  avatar           : "IMG_0888.jpg"
+  avatar           : "PhotoRoom_20230829_191012.jpg"
   bio              : "Conversational AI"
   location         : "Atlanta, Georgia"
-  employer         : "Emory University"
+  employer         : #"Emory University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : 

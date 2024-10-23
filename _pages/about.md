@@ -27,8 +27,11 @@ MDPI 2024. Jeongrok Yu, Seong Ug Kim, Jacob Choi, Jinho Choi.
 Awards
 ======
 Feb 2024: [Davinci Talks](https://ila.emory.edu/ideas/ideas-week.html) Finalist
+
 Fall 2022/2023: Deans List
+
 Fall 2020: HackEmory Hackathon Second Place 
+
 Fall 2019 - Mar 2020: [CBYX](https://usagermanyscholarship.org/) Scholar
 
 Writing
@@ -37,7 +40,6 @@ Writing
 During my undergrad, I wrote for Emory In Via's Journal of Christian Thought. Here you can find blog posts, poems, songs, and personal/academic pieces written by students that relate to faith. Here are some of my pieces:
 
 [Poem](https://emoryinvia.wixsite.com/my-site/post/ern%C3%A4hrt-%C3%BCberzeugung)
-
 [Personal Essay](https://issuu.com/emoryinvia/docs/re-final/22)
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->

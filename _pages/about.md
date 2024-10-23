@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Present: Currently at [Viterbi School of Engineering](https://viterbischool.usc.edu/) at [University of Southern California](https://www.usc.edu/) pursuing my [Master of Science in Computer Science](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/).
+Present: Currently at [Viterbi School of Engineering](https://viterbischool.usc.edu/) at USC pursuing my MSCS.
 
 May 2024: I graduated from [Emory College of Arts and Science](https://college.emory.edu/main/index.html) with a B.S. in Computer Science with Highest Honors and with a minor in German studies! 🥳
 

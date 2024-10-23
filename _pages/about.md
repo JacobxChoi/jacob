@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Present: Currently at Viterbi School of Engineering at University of Southern California pursuing my Masters of Computer Science.
+Present: Currently at [Viterbi School of Engineering](https://viterbischool.usc.edu/) at [University of Southern California](https://www.usc.edu/) pursuing my [Master of Science in Computer Science](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/).
 
 May 2024: I graduated from [Emory College of Arts and Science](https://college.emory.edu/main/index.html) with a B.S. in Computer Science with Highest Honors and with a minor in German studies! 🥳
 
@@ -16,19 +16,20 @@ During my undergrad, I was advised by [Dr. Jinho Choi](https://www.emorynlp.org/
 
 Experiences
 ======
-Visiting Researcher, University of Colorado at Colorado Springs, Colorado Springs. 05/2023 - 08/2023
+[Visiting Researcher](https://faculty.uccs.edu/jkalita/reu-site-advances-in-natural-language-processing/), University of Colorado at Colorado Springs, Colorado Springs. 05/2023 - 08/2023
 
 Publications
 ======
 What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models 
-MDPI 2024. Jeongrok Yu, Seong Ug Kim, Jacob Choi, Jinho Choi.
+MDPI 2024. Jeongrok Yu, Seong Ug Kim, Jacob Choi, Jinho Choi. 
+[Print](https://www.mdpi.com/2078-2489/15/9/549)
 
 Awards
 ======
-Feb 2024: Davinci Talks Finalist
+Feb 2024: [Davinci Talks](https://ila.emory.edu/ideas/ideas-week.html) Finalist
 Fall 2022/2023: Deans List
 Fall 2020: HackEmory Hackathon Second Place 
-Fall 2019 - Mar 2020: CBYX Scholar
+Fall 2019 - Mar 2020: [CBYX](https://usagermanyscholarship.org/) Scholar
 
 Writing
 ======

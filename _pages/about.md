@@ -8,20 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year at [Emory College of Arts and Science](https://college.emory.edu/main/index.html) studying computer science with a minor in German studies. I am currently advised by [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and my research experience lies in AI ethics and language model robustness. I am currently exploring religious applications of conversational AI through faith-based queries. 
+Present: Currently at Viterbi School of Engineeringat University of Southern California pursuing my Masters of Computer Science.
+
+May 2024: I graduated from [Emory College of Arts and Science](https://college.emory.edu/main/index.html) With a B.S. in Computer Science with Highest Honors and with a minor in German studies! 🥳
+
+During my undergrad, I was advised by [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored religious applications of conversational AI through faith-based queries. 
 
 Experiences
 ======
 Visiting Researcher, University of Colorado at Colorado Springs, Colorado Springs. 05/2023 - 08/2023
 
+Publications
+======
+What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models 
+MDPI 2024. Jeongrok Yu, Seong Ug Kim, Jacob Choi, Jinho Choi.
+
 Awards
 ======
-Fall 2022/2023 Deans List.
+Feb 2024: Davinci Talks Finalist
+Fall 2022/2023: Deans List
+Fall 2020: HackEmory Hackathon Second Place 
+Fall 2019 - Mar 2020: CBYX Scholar
 
 Writing
 ======
 
-In my free time, I write for Emory In Via's Journal of Christian Thought. You can find blog posts, poems, songs, and personal/academic pieces written by students that relate to faith. Here are some of my pieces:
+During my undergrad, I wrote for Emory In Via's Journal of Christian Thought. Here you can find blog posts, poems, songs, and personal/academic pieces written by students that relate to faith. Here are some of my pieces:
 
 [Poem](https://emoryinvia.wixsite.com/my-site/post/ern%C3%A4hrt-%C3%BCberzeugung)
 

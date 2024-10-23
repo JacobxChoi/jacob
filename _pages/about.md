@@ -12,7 +12,7 @@ Present: Currently at [Viterbi School of Engineering](https://viterbischool.usc.
 
 May 2024: I graduated from [Emory College of Arts and Science](https://college.emory.edu/main/index.html) with a B.S. in Computer Science with Highest Honors and with a minor in German studies! 🥳
 
-During my undergrad, I was advised by [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored religious applications of conversational AI through faith-based queries. 
+During my undergrad, I was advised by [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored religious applications of conversational AI through faith-based queries. You can find more about my interests and research experience in my [CV](https://jacobxchoi.github.io/jacob//files/Jacob_Google_CV.pdf)!
 
 Experiences
 ======
